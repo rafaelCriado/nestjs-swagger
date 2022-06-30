@@ -1,8 +1,8 @@
-# OpenAPI + NestJS
+# OpenAPI(Swagger) + NestJS
+
+O Swagger (OpenApi) é uma biblioteca que gera um site interno no seu backend que descreve, com muitos detalhes, cada endpoint e estrutura de entidades presentes na sua aplicação atraveś de especificações.
 
 A OpenAPI Specification (OAS) define uma descrição de interface padrão e independente de linguagem de programação para APIs HTTP, que permite que humanos e computadores descubram e compreendam os recursos de um serviço sem exigir acesso ao código-fonte, documentação adicional ou inspeção do tráfego de rede . Quando definido corretamente via OpenAPI, um consumidor pode entender e interagir com o serviço remoto com uma quantidade mínima de lógica de implementação. Semelhante ao que as descrições de interface fizeram para programação de nível inferior, a especificação OpenAPI remove suposições ao chamar um serviço.
-
-O Swagger (OpenApi) é uma biblioteca que gera um site interno no seu backend que descreve, com muitos detalhes, cada endpoint e estrutura de entidades presentes na sua aplicação.
 
 Além disso, também oferece uma interface para que a API seja testada, sem precisar de um cliente HTTP externo (Postman, Insomnia, Thunder Client, etc) e, principalmente, com configuração ZERO!
 
